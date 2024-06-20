@@ -22,7 +22,7 @@ I'm a passionate software developer with a keen interest in building innovative 
 ## 💼 Skills
 
 - Programming Languages:  Java | Kotlin | Python | C
-- Frameworks & Libraries:  Jetpack Compose | Spring | Gson
+- Frameworks & Libraries:  Jetpack Compose | Swing | Gson
 - Databases: MySQL
 - Version Control: Git, GitHub
   
